@@ -1,6 +1,6 @@
 {
   "name": "jabu",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "J(son) A(sset) BU(ndler) - Bundles various asset files (html, css, js, anything) into a single json string",
   "main": "index.js",
   "scripts": {
