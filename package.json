@@ -1,0 +1,33 @@
+{
+  "name": "jabu",
+  "version": "1.0.0",
+  "description": "J(son) A(sset) BU(ndler) - Bundles various asset files (html, css, js, anything) into a single json string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mediasuitenz/jabu.git"
+  },
+  "keywords": [
+    "bundler",
+    "assets",
+    "json",
+    "bundle"
+  ],
+  "author": "Mark Stuart <mark@mediasuite.co.nz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mediasuitenz/jabu/issues"
+  },
+  "homepage": "https://github.com/mediasuitenz/jabu",
+  "preferGlobal": "true",
+  "bin": {
+    "jabu": "index.js"
+  },
+  "dependencies": {
+    "chalk": "0.5.1",
+    "commander": "2.3.0"
+  }
+}
